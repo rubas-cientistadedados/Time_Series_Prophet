@@ -4,11 +4,12 @@ astor==0.8.1
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.1.5
+bokeh==2.1.1
 cachetools==4.1.0
 cmdstanpy==0.4.0
 convertdate==2.2.1
 cycler==0.10.0
-Cython==0.29.21
+Cython==0.29.17
 decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.0
@@ -57,9 +58,12 @@ packaging==20.3
 pandas==1.0.3
 pandocfilters==1.4.2
 parso==0.7.0
+patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==7.2.0
 plotly==4.7.1
+pmdarima==1.6.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 protobuf==3.11.3
@@ -89,6 +93,7 @@ Send2Trash==1.5.0
 setuptools-git==1.2
 six==1.15.0
 sklearn==0.0
+statsmodels==0.11.1
 tensorboard==2.1.1
 tensorflow==2.1.0
 tensorflow-estimator==2.1.0
@@ -97,6 +102,8 @@ terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.4
 traitlets==4.3.3
+typing-extensions==3.7.4.2
+urllib3==1.25.10
 virtualenv==20.0.10
 wcwidth==0.1.9
 webencodings==0.5.1
