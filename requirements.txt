@@ -103,7 +103,7 @@ testpath==0.4.4
 tornado==6.0.4
 traitlets==4.3.3
 typing-extensions==3.7.4.2
-urllib3==1.25.10
+urllib3==1.26.5
 virtualenv==20.0.10
 wcwidth==0.1.9
 webencodings==0.5.1
